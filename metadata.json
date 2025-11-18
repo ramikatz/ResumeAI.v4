@@ -1,0 +1,5 @@
+{
+  "name": "Resume AI v4",
+  "description": "An AI-powered application to help users tailor their resumes for specific job descriptions, providing an ATS compatibility score, keyword analysis, and learning resources.",
+  "requestFramePermissions": []
+}
